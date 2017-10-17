@@ -1,0 +1,12 @@
+Övning 2
+gå till mappen för repot i Git Shell
+gå till mappen för repot i Utforskaren
+i Utforskaren skapar du en ny textfil, öppna och editera samt spara
+skriv git status i Git Shell
+lägg till filen till Staging Area
+använd git status igen
+gör en commit
+använd git status, git log
+pusha upp förändringarna i repot till webben
+titta på repot på webben
+
