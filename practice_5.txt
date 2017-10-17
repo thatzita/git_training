@@ -1,0 +1,5 @@
+Övning 5
+gör en branch lokalt
+editera på branchen
+merga tillbaks till din första branch
+pusha upp till github
