@@ -10,3 +10,5 @@ använd git status, git log
 pusha upp förändringarna i repot till webben
 titta på repot på webben
 
+UPDATE:
+la till denna raden från webben
