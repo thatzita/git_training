@@ -12,3 +12,6 @@ titta på repot på webben
 
 UPDATE:
 la till denna raden från webben
+
+UPDATE 2:
+La till detta lokalt
